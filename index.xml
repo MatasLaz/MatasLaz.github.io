@@ -9,17 +9,17 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Nov 2023 23:31:12 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 Nov 2023 00:30:28 +0200</lastBuildDate>
     
 	<atom:link href="https://MatasLaz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>TestPost</title>
-      <link>https://MatasLaz.github.io/posts/testpost/</link>
-      <pubDate>Sat, 18 Nov 2023 23:31:12 +0200</pubDate>
+      <title>SecondPost</title>
+      <link>https://MatasLaz.github.io/posts/secondpost/</link>
+      <pubDate>Sun, 19 Nov 2023 00:30:28 +0200</pubDate>
       
-      <guid>https://MatasLaz.github.io/posts/testpost/</guid>
+      <guid>https://MatasLaz.github.io/posts/secondpost/</guid>
       <description>
         
           
@@ -28,7 +28,8 @@
         
         
         
-          zodis zodis zodis zodis zodis zodis zodis zodis
+          
+// Your First Program class HelloWorld { public static void main(String[] args) { System.out.println(&amp;#34;Hello, World!&amp;#34;); } } 
           
         
         </description>
